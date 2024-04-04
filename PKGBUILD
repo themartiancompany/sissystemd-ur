@@ -4,6 +4,7 @@
 # Maintainer: Pellegrino Prevete (tallero) <pellegrinoprevete@gmail.com>
 
 _offline="false"
+_systemd="false"
 _git="false"
 pkgname=sissystemd
 pkgver=0.0.0.0.0.0.0.0.0.1
@@ -66,7 +67,7 @@ _url="${url}"
     "${pkgname}-${pkgver}.tar.gz::${_url}/archive/refs/tags/${pkgver}.tar.gz"
   ) && \
   sha256sums+=(
-    '0b69f3e620beb0925eabff7739593285fbe1e4527d98467464154031cae66ab6'
+    '29b3f5cb5d7bd560dc2d8b4a5321be923d04153d234d921cd67d1ce26d5f3d93'
   )
 
 check() {
