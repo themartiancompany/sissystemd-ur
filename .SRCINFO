@@ -1,0 +1,12 @@
+pkgbase = sissystemd
+	pkgdesc = Cross-platform systemd.
+	pkgver = 0.0.0.1.1.1
+	pkgrel = 1
+	url = https://github.com/themartiancompany/sissystemd
+	arch = any
+	license = AGPL3
+	checkdepends = shellcheck
+	source = sissystemd-0.0.0.1.1.1.tar.gz::https://github.com/themartiancompany/sissystemd/archive/refs/tags/0.0.0.1.1.1.tar.gz
+	sha256sums = 0b69f3e620beb0925eabff7739593285fbe1e4527d98467464154031cae66ab6
+
+pkgname = sissystemd
