@@ -6,7 +6,7 @@
 _offline="false"
 _git="false"
 pkgname=sissystemd
-pkgver=0.0.0.1.1.1
+pkgver=0.0.0.0.0.0.0.0.0.1
 pkgrel=1
 _pkgdesc=(
   "Cross-platform systemd."
